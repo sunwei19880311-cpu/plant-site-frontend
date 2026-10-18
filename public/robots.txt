@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://plant.learning19880311.click/sitemap.xml
+Host: https://plant.learning19880311.click
